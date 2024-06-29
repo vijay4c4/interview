@@ -1,6 +1,7 @@
 Feature: Compose Email
 
   Background: 
+  
       Given I am logged into Gmail
       When I click on the "Compose" button
 
